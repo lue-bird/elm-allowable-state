@@ -1,0 +1,13 @@
+{
+    "type": "package",
+    "name": "lue-bird/elm-allowable-state",
+    "summary": "allow/forbid a state at the type level",
+    "license": "MIT",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "Possibly"
+    ],
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "dependencies": {},
+    "test-dependencies": {}
+}
