@@ -22,7 +22,7 @@ or ones that can **pass** the **(im)possibility of a state** from one data struc
 ```elm
 toChars :
     Text nonEmptyOrEmptiable
-    -> Stack Char nnEmptyOrEmptiable
+    -> Stack Char nonEmptyOrEmptiable
 ```
 
 All this is very much possible 🔥
