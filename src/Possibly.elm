@@ -6,13 +6,13 @@ module Possibly exposing (Possibly(..))
 
         empty : Is Possibly Empty filling_
 
-  - [`Possibly`](https://dark.elm.dmy.fr/packages/lue-bird/elm-allowable-states/latest/Possibly) marks states as possible
+  - [`Possibly`](#Possibly) marks states as possible
 
         top : Is Never Empty (StackFilled element) -> element
 
   - → you can carry over non-emptiness-information
 
-        import Fillable exposing (Is(..))
+        import Fillable exposing (Is(..), toFillingOrIfEmpty)
 
         type Focus item possiblyOrNever hole
             = Item item
@@ -43,7 +43,7 @@ module Possibly exposing (Possibly(..))
 
 @docs Possibly
 
-If you still have questions, check out the [readme](https://dark.elm.dmy.fr/packages/lue-bird/elm-allowable-states/latest/).
+If you still have questions, check out the [readme](https://dark.elm.dmy.fr/packages/lue-bird/elm-allowable-state/latest/).
 
 -}
 
@@ -53,24 +53,28 @@ If you still have questions, check out the [readme](https://dark.elm.dmy.fr/pack
 
 #### in results
 
-    fromMaybe : Maybe value -> Is Possibly Empty value
+    fromMaybe : Maybe value -> Is value Possibly Empty
 
-    fromList : List element -> Stack Possibly Empty element
+    fromList : List element -> Is (StackFilled element) Possibly Empty
 
 
 #### in type declarations
 
     type alias Model =
         WithoutConstructorFunction
-            { selected : Is Possibly Empty
-            , planets : Stack Possibly Empty Planet
-            , searchKeyWords : Stack Never Empty String
+            { selected : Is Choice Possibly Empty
+            , planets : Is (StackFilled Planet) Possibly Empty
+            , searchKeyWords : Is (StackFilled String) Never Empty
             }
 
     type alias WithoutConstructorFunction record =
         record
 
 where `WithoutConstructorFunction` stops the compiler from creating a positional constructor function for `Model`.
+
+Read more about the general idea in the
+[module documentation](https://dark.elm.dmy.fr/packages/lue-bird/elm-allowable-state/latest/Possible).
+or [readme](https://dark.elm.dmy.fr/packages/lue-bird/elm-allowable-state/latest/).
 
 -}
 type Possibly
