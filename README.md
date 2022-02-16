@@ -1,4 +1,4 @@
-> allow/forbid a state on the type level
+> allow/forbid a state at the type level
 
 # [allowable state](https://package.elm-lang.org/packages/lue-bird/elm-allowable-state/latest/)
 
