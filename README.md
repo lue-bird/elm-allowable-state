@@ -73,7 +73,7 @@ top : Text Never Empty -> Char
 ```
 
 To avoid misuse like `empty : Text () Empty`,
-we'll wrap the tag `()` in a `type` 🌯
+we'll represent the `()` tag as a `type`:
 
 ```elm
 type Possibly
