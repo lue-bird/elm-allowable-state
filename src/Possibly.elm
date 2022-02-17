@@ -78,5 +78,4 @@ or [readme](https://dark.elm.dmy.fr/packages/lue-bird/elm-allowable-state/latest
 
 -}
 type Possibly
-    = -- should resemble ()
-      O
+    = Possible

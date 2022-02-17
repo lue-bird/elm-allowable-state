@@ -77,13 +77,13 @@ we'll wrap the tag `()` in a `type` 🌯
 
 ```elm
 type Possibly
-    = O
+    = Possible
 
 top : Text Never Empty -> Char
 
 empty : Text Possibly Empty
 empty =
-    TextEmpty O
+    TextEmpty Possible
 ```
 
 👌. Now the fun part: Carrying emptiness-information over:
