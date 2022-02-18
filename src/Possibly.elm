@@ -4,26 +4,23 @@ module Possibly exposing (Possibly(..))
 
   - `Never` marks states as impossible
 
-        empty : Is Possibly Empty filling_
+        top : Empty Never (StackFilled element) -> element
 
   - [`Possibly`](#Possibly) marks states as possible
 
-        top : Is Never Empty (StackFilled element) -> element
+        empty : Empty Possibly filling_
 
   - → you can carry over non-emptiness-information
 
-        import Fillable exposing (Is(..), toFillingOrIfEmpty)
+        import Fillable exposing (Empty(..), toFillingOrIfEmpty)
 
-        type Focus item possiblyOrNever hole
+        type FocusHole possiblyOrNever item
             = Item item
             | Hole possiblyOrNever
 
-        type Hole
-            = HoleTag Never
-
         toFocus :
-            Is possiblyOrNever Empty value
-            -> Focus value possiblyOrNever Hole
+            Empty possiblyOrNever value
+            -> FocusHole possiblyOrNever value
         toFocus =
             \fillable ->
                 case fillable of
@@ -53,18 +50,18 @@ If you still have questions, check out the [readme](https://dark.elm.dmy.fr/pack
 
 #### in results
 
-    fromMaybe : Maybe value -> Is value Possibly Empty
+    fromMaybe : Maybe value -> Empty Possibly value
 
-    fromList : List element -> Is (StackFilled element) Possibly Empty
+    fromList : List element -> Empty Possibly (StackFilled element)
 
 
 #### in type declarations
 
     type alias Model =
         WithoutConstructorFunction
-            { selected : Is Choice Possibly Empty
-            , planets : Is (StackFilled Planet) Possibly Empty
-            , searchKeyWords : Is (StackFilled String) Never Empty
+            { selected : Empty Possibly Choice
+            , planets : Empty Possibly (StackFilled Planet)
+            , searchKeyWords : Empty Never (StackFilled String)
             }
 
     type alias WithoutConstructorFunction record =
