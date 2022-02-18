@@ -3,7 +3,7 @@
     "name": "lue-bird/elm-allowable-state",
     "summary": "allow/forbid a state at the type level",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Possibly"
     ],
