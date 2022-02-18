@@ -1,5 +1,9 @@
 # changelog
 
+#### 1.0.2
+
+- corrected `Possibly` documentation
+
 #### 1.0.1
 
 - removed `BeEmpty` type tag in the readme
