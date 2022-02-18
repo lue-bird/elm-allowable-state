@@ -60,16 +60,13 @@ top (TextEmpty ()) -- error
 Lets make the type `TextThatCan ()/Never BeEmpty` handier:
 
 ```elm
-type Text possiblyOrNever emptyTag
+type TextEmpty possiblyOrNever
 
 type alias Possibly =
     ()
 
-type Empty
-    = EmptyTag Never
-
-empty : Text Possibly Empty
-top : Text Never Empty -> Char
+empty : TextEmpty Possibly
+top : TextEmpty Never -> Char
 ```
 
 To avoid misuse like `empty : Text () Empty`,
@@ -89,11 +86,9 @@ empty =
 👌. Now the fun part: Carrying emptiness-information over:
 
 ```elm
-import Stack exposing (Stack)
-
 toChars :
-    Text possiblyOrNever Empty
-    -> Stack Char possiblyOrNever Empty
+    TextEmpty possiblyOrNever
+    -> StackEmpty possiblyOrNever Char
 toChars string =
     case string of
         TextEmpty possiblyOrNever ->
@@ -102,11 +97,10 @@ toChars string =
         TextFilled headChar tailString ->
             StackFilled headChar (tailString |> String.toList)
 ```
-
-The type information gets carried over, so
+so
 ```elm
-Text Never Empty -> Stack Char Never Empty
-Text Possibly Empty -> Stack Char Possibly Empty
+TextEmpty Never -> StackEmpty Never Char
+TextEmpty Possibly -> StackEmpty Possibly Char
 ```
 
 I hope you got the idea:
