@@ -30,18 +30,15 @@ All this is very much possible 🔥
 Let's experiment and see where we end up.
 
 ```elm
-type TextThatCan unitOrNever beEmpty
+type TextThatCanBeEmpty unitOrNever
     = TextEmpty unitOrNever
     | TextFilled Char String
 
-type BeEmpty
-    = BeEmptyTag Never
-
-char : Char -> TextThatCan Never BeEmpty
+char : Char -> TextThatCanBeEmpty Never
 char onlyChar =
     TextFilled onlyChar ""
 
-top : TextThatCan Never BeEmpty -> Char
+top : TextThatCanBeEmpty Never -> Char
 top =
     \text ->
         case text of
@@ -55,9 +52,9 @@ top (char 'E') -- 'E'
 top (TextEmpty ()) -- error
 ```
 
-→ The type `TextThatCan Never BeEmpty` limits arguments to just `TextFilled`.
+→ The type `TextThatCanBeEmpty Never` limits arguments to just `TextFilled`.
 
-Lets make the type `TextThatCan ()/Never BeEmpty` handier:
+Lets make the type `TextThatCanBeEmpty ()/Never` handier:
 
 ```elm
 type TextEmpty possiblyOrNever
