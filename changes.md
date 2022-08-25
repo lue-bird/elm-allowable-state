@@ -1,3 +1,9 @@
+## 2.0.0 plans
+
+- `Possibly` name → `Possible`, `Impossible = Never` add
+    - easier to read
+    - encourages `Tag Possible/Impossible` instead of `Possibly/Impossibly Tag`
+
 # changelog
 
 #### 1.0.2
