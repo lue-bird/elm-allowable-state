@@ -110,7 +110,7 @@
        style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4318)" />
     <text
        xml:space="preserve"
-       transform="matrix(0.42001262,0,0,0.42001262,25.964717,-20.493573)"
+       transform="matrix(0.42001262,0,0,0.42001262,23.318882,-21.02274)"
        id="text10383"
        style="font-size:67.1937px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10385)"
        inkscape:export-filename="/home/pascal/Desktop/for-dev/elm-allowable-state/social/thumbnail.png"
@@ -118,22 +118,24 @@
        inkscape:export-ydpi="93.190147"><tspan
          x="-189.01953"
          y="315.39373"
-         id="tspan38159"><tspan
+         id="tspan41043"><tspan
            style="font-weight:bold;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP Bold';fill:#00ffd1"
-           id="tspan38155">Possibly</tspan><tspan
+           id="tspan41039">Possibly</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP Bold'"
-           id="tspan38157">
+           id="tspan41041">
 </tspan></tspan><tspan
          x="-189.01953"
          y="424.26327"
-         id="tspan38165"><tspan
+         id="tspan41051"><tspan
+           style="font-weight:bold;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP Bold'"
+           id="tspan41045"> </tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP Bold';fill:#ff005b"
-           id="tspan38161">| </tspan><tspan
+           id="tspan41047">| </tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP Bold';fill:#00ffd1"
-           id="tspan38163">Never</tspan></tspan></text>
+           id="tspan41049">Never</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.38811892,0,0,0.38811892,173.77829,7.306523)"
+       transform="matrix(0.38811892,0,0,0.38811892,171.13244,6.2481896)"
        id="text10383-7"
        style="font-size:37.6763px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10385-36)"
        inkscape:export-filename="/home/pascal/Desktop/for-dev/elm-allowable-state/social/thumbnail.png"
@@ -141,134 +143,134 @@
        inkscape:export-ydpi="93.190147"><tspan
          x="-189.01953"
          y="252.48028"
-         id="tspan38169"><tspan
+         id="tspan41055"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38167">
+           id="tspan41053">
 </tspan></tspan><tspan
          x="-189.01953"
          y="255.7087"
-         id="tspan38173"><tspan
+         id="tspan41059"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38171">
+           id="tspan41057">
 </tspan></tspan><tspan
          x="-189.01953"
          y="258.93713"
-         id="tspan38177"><tspan
+         id="tspan41063"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38175">
+           id="tspan41061">
 </tspan></tspan><tspan
          x="-189.01953"
          y="262.16555"
-         id="tspan38181"><tspan
+         id="tspan41067"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38179">
+           id="tspan41065">
 </tspan></tspan><tspan
          x="-189.01953"
          y="265.39397"
-         id="tspan38185"><tspan
+         id="tspan41071"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38183">
+           id="tspan41069">
 </tspan></tspan><tspan
          x="-189.01953"
          y="268.6224"
-         id="tspan38189"><tspan
+         id="tspan41075"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38187">
+           id="tspan41073">
 </tspan></tspan><tspan
          x="-189.01953"
          y="271.85082"
-         id="tspan38193"><tspan
+         id="tspan41079"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38191">
+           id="tspan41077">
 </tspan></tspan><tspan
          x="-189.01953"
          y="275.07925"
-         id="tspan38197"><tspan
+         id="tspan41083"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38195">
+           id="tspan41081">
 </tspan></tspan><tspan
          x="-189.01953"
          y="278.30767"
-         id="tspan38201"><tspan
+         id="tspan41087"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38199">
+           id="tspan41085">
 </tspan></tspan><tspan
          x="-189.01953"
          y="281.53609"
-         id="tspan38205"><tspan
+         id="tspan41091"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38203">
+           id="tspan41089">
 </tspan></tspan><tspan
          x="-189.01953"
          y="284.76452"
-         id="tspan38209"><tspan
+         id="tspan41095"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38207">
+           id="tspan41093">
 </tspan></tspan><tspan
          x="-189.01953"
          y="287.99294"
-         id="tspan38213"><tspan
+         id="tspan41099"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38211">
+           id="tspan41097">
 </tspan></tspan><tspan
          x="-189.01953"
          y="291.22137"
-         id="tspan38217"><tspan
+         id="tspan41103"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38215">
+           id="tspan41101">
 </tspan></tspan><tspan
          x="-189.01953"
          y="294.44979"
-         id="tspan38221"><tspan
+         id="tspan41107"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38219">
+           id="tspan41105">
 </tspan></tspan><tspan
          x="-189.01953"
          y="297.67821"
-         id="tspan38225"><tspan
+         id="tspan41111"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38223">
+           id="tspan41109">
 </tspan></tspan><tspan
          x="-189.01953"
          y="300.90664"
-         id="tspan38229"><tspan
+         id="tspan41115"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38227">
+           id="tspan41113">
 </tspan></tspan><tspan
          x="-189.01953"
          y="304.13506"
-         id="tspan38233"><tspan
+         id="tspan41119"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38231">
+           id="tspan41117">
 </tspan></tspan><tspan
          x="-189.01953"
          y="307.36349"
-         id="tspan38237"><tspan
+         id="tspan41123"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38235">
+           id="tspan41121">
 </tspan></tspan><tspan
          x="-189.01953"
          y="310.59191"
-         id="tspan38241"><tspan
+         id="tspan41127"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38239">
+           id="tspan41125">
 </tspan></tspan><tspan
          x="-189.01953"
          y="347.78121"
-         id="tspan38247"><tspan
+         id="tspan41133"><tspan
            style="font-size:63.626px;line-height:0.88;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#ffffff"
-           id="tspan38243">forbid</tspan><tspan
+           id="tspan41129">forbid</tspan><tspan
            style="font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38245">
+           id="tspan41131">
 </tspan></tspan><tspan
          x="-189.01953"
          y="403.77208"
-         id="tspan38251"><tspan
+         id="tspan41137"><tspan
            style="font-size:63.626px;line-height:0.88;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#ffffff"
-           id="tspan38249">safely</tspan></tspan></text>
+           id="tspan41135">safely</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.38811892,0,0,0.38811892,146.85807,30.856727)"
+       transform="matrix(0.38811892,0,0,0.38811892,144.21222,29.798393)"
        id="text10383-7-6"
        style="font-size:37.6763px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10385-36-3)"
        inkscape:export-filename="/home/pascal/Desktop/for-dev/elm-allowable-state/social/thumbnail.png"
@@ -276,126 +278,126 @@
        inkscape:export-ydpi="93.190147"><tspan
          x="-189.01953"
          y="252.48028"
-         id="tspan38255"><tspan
+         id="tspan41141"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38253">
+           id="tspan41139">
 </tspan></tspan><tspan
          x="-189.01953"
          y="255.7087"
-         id="tspan38259"><tspan
+         id="tspan41145"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38257">
+           id="tspan41143">
 </tspan></tspan><tspan
          x="-189.01953"
          y="258.93713"
-         id="tspan38263"><tspan
+         id="tspan41149"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38261">
+           id="tspan41147">
 </tspan></tspan><tspan
          x="-189.01953"
          y="262.16555"
-         id="tspan38267"><tspan
+         id="tspan41153"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38265">
+           id="tspan41151">
 </tspan></tspan><tspan
          x="-189.01953"
          y="265.39397"
-         id="tspan38271"><tspan
+         id="tspan41157"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38269">
+           id="tspan41155">
 </tspan></tspan><tspan
          x="-189.01953"
          y="268.6224"
-         id="tspan38275"><tspan
+         id="tspan41161"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38273">
+           id="tspan41159">
 </tspan></tspan><tspan
          x="-189.01953"
          y="271.85082"
-         id="tspan38279"><tspan
+         id="tspan41165"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38277">
+           id="tspan41163">
 </tspan></tspan><tspan
          x="-189.01953"
          y="275.07925"
-         id="tspan38283"><tspan
+         id="tspan41169"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38281">
+           id="tspan41167">
 </tspan></tspan><tspan
          x="-189.01953"
          y="278.30767"
-         id="tspan38287"><tspan
+         id="tspan41173"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38285">
+           id="tspan41171">
 </tspan></tspan><tspan
          x="-189.01953"
          y="281.53609"
-         id="tspan38291"><tspan
+         id="tspan41177"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38289">
+           id="tspan41175">
 </tspan></tspan><tspan
          x="-189.01953"
          y="284.76452"
-         id="tspan38295"><tspan
+         id="tspan41181"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38293">
+           id="tspan41179">
 </tspan></tspan><tspan
          x="-189.01953"
          y="287.99294"
-         id="tspan38299"><tspan
+         id="tspan41185"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38297">
+           id="tspan41183">
 </tspan></tspan><tspan
          x="-189.01953"
          y="291.22137"
-         id="tspan38303"><tspan
+         id="tspan41189"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38301">
+           id="tspan41187">
 </tspan></tspan><tspan
          x="-189.01953"
          y="294.44979"
-         id="tspan38307"><tspan
+         id="tspan41193"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38305">
+           id="tspan41191">
 </tspan></tspan><tspan
          x="-189.01953"
          y="297.67821"
-         id="tspan38311"><tspan
+         id="tspan41197"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38309">
+           id="tspan41195">
 </tspan></tspan><tspan
          x="-189.01953"
          y="300.90664"
-         id="tspan38315"><tspan
+         id="tspan41201"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38313">
+           id="tspan41199">
 </tspan></tspan><tspan
          x="-189.01953"
          y="304.13506"
-         id="tspan38319"><tspan
+         id="tspan41205"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38317">
+           id="tspan41203">
 </tspan></tspan><tspan
          x="-189.01953"
          y="307.36349"
-         id="tspan38323"><tspan
+         id="tspan41209"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38321">
+           id="tspan41207">
 </tspan></tspan><tspan
          x="-189.01953"
          y="310.59191"
-         id="tspan38327"><tspan
+         id="tspan41213"><tspan
            style="font-size:43.6292px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL'"
-           id="tspan38325">
+           id="tspan41211">
 </tspan></tspan><tspan
          x="-189.01953"
          y="319.78577"
-         id="tspan38331"><tspan
+         id="tspan41217"><tspan
            style="font-size:63.626px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#ffffff"
-           id="tspan38329">→</tspan></tspan></text>
+           id="tspan41215">→</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.38811892,0,0,0.38811892,145.74372,-27.763689)"
+       transform="matrix(0.38811892,0,0,0.38811892,143.09787,-28.822023)"
        id="text10383-7-3"
        style="font-size:37.6763px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10385-36-5)"
        inkscape:export-filename="/home/pascal/Desktop/for-dev/elm-allowable-state/social/thumbnail.png"
@@ -403,233 +405,233 @@
        inkscape:export-ydpi="93.190147"><tspan
          x="-189.01953"
          y="250.79821"
-         id="tspan38335"><tspan
+         id="tspan41221"><tspan
            style="font-size:43.6292px"
-           id="tspan38333">
+           id="tspan41219">
 </tspan></tspan><tspan
          x="-189.01953"
          y="252.34457"
-         id="tspan38339"><tspan
+         id="tspan41225"><tspan
            style="font-size:43.6292px"
-           id="tspan38337">
+           id="tspan41223">
 </tspan></tspan><tspan
          x="-189.01953"
          y="253.89092"
-         id="tspan38343"><tspan
+         id="tspan41229"><tspan
            style="font-size:43.6292px"
-           id="tspan38341">
+           id="tspan41227">
 </tspan></tspan><tspan
          x="-189.01953"
          y="255.43728"
-         id="tspan38347"><tspan
+         id="tspan41233"><tspan
            style="font-size:43.6292px"
-           id="tspan38345">
+           id="tspan41231">
 </tspan></tspan><tspan
          x="-189.01953"
          y="256.98363"
-         id="tspan38351"><tspan
+         id="tspan41237"><tspan
            style="font-size:43.6292px"
-           id="tspan38349">
+           id="tspan41235">
 </tspan></tspan><tspan
          x="-189.01953"
          y="258.52999"
-         id="tspan38355"><tspan
+         id="tspan41241"><tspan
            style="font-size:43.6292px"
-           id="tspan38353">
+           id="tspan41239">
 </tspan></tspan><tspan
          x="-189.01953"
          y="260.07635"
-         id="tspan38359"><tspan
+         id="tspan41245"><tspan
            style="font-size:43.6292px"
-           id="tspan38357">
+           id="tspan41243">
 </tspan></tspan><tspan
          x="-189.01953"
          y="261.6227"
-         id="tspan38363"><tspan
+         id="tspan41249"><tspan
            style="font-size:43.6292px"
-           id="tspan38361">
+           id="tspan41247">
 </tspan></tspan><tspan
          x="-189.01953"
          y="263.16906"
-         id="tspan38367"><tspan
+         id="tspan41253"><tspan
            style="font-size:43.6292px"
-           id="tspan38365">
+           id="tspan41251">
 </tspan></tspan><tspan
          x="-189.01953"
          y="264.71542"
-         id="tspan38371"><tspan
+         id="tspan41257"><tspan
            style="font-size:43.6292px"
-           id="tspan38369">
+           id="tspan41255">
 </tspan></tspan><tspan
          x="-189.01953"
          y="266.26177"
-         id="tspan38375"><tspan
+         id="tspan41261"><tspan
            style="font-size:43.6292px"
-           id="tspan38373">
+           id="tspan41259">
 </tspan></tspan><tspan
          x="-189.01953"
          y="267.80813"
-         id="tspan38379"><tspan
+         id="tspan41265"><tspan
            style="font-size:43.6292px"
-           id="tspan38377">
+           id="tspan41263">
 </tspan></tspan><tspan
          x="-189.01953"
          y="269.35448"
-         id="tspan38383"><tspan
+         id="tspan41269"><tspan
            style="font-size:43.6292px"
-           id="tspan38381">
+           id="tspan41267">
 </tspan></tspan><tspan
          x="-189.01953"
          y="270.90084"
-         id="tspan38387"><tspan
+         id="tspan41273"><tspan
            style="font-size:43.6292px"
-           id="tspan38385">
+           id="tspan41271">
 </tspan></tspan><tspan
          x="-189.01953"
          y="272.4472"
-         id="tspan38391"><tspan
+         id="tspan41277"><tspan
            style="font-size:43.6292px"
-           id="tspan38389">
+           id="tspan41275">
 </tspan></tspan><tspan
          x="-189.01953"
          y="273.99355"
-         id="tspan38395"><tspan
+         id="tspan41281"><tspan
            style="font-size:43.6292px"
-           id="tspan38393">
+           id="tspan41279">
 </tspan></tspan><tspan
          x="-189.01953"
          y="275.53991"
-         id="tspan38399"><tspan
+         id="tspan41285"><tspan
            style="font-size:43.6292px"
-           id="tspan38397">
+           id="tspan41283">
 </tspan></tspan><tspan
          x="-189.01953"
          y="277.08627"
-         id="tspan38403"><tspan
+         id="tspan41289"><tspan
            style="font-size:43.6292px"
-           id="tspan38401">
+           id="tspan41287">
 </tspan></tspan><tspan
          x="-189.01953"
          y="278.63262"
-         id="tspan38407"><tspan
+         id="tspan41293"><tspan
            style="font-size:43.6292px"
-           id="tspan38405">
+           id="tspan41291">
 </tspan></tspan><tspan
          x="-189.01953"
          y="280.17898"
-         id="tspan38411"><tspan
+         id="tspan41297"><tspan
            style="font-size:43.6292px"
-           id="tspan38409">
+           id="tspan41295">
 </tspan></tspan><tspan
          x="-189.01953"
          y="281.72533"
-         id="tspan38415"><tspan
+         id="tspan41301"><tspan
            style="font-size:43.6292px"
-           id="tspan38413">
+           id="tspan41299">
 </tspan></tspan><tspan
          x="-189.01953"
          y="283.27169"
-         id="tspan38419"><tspan
+         id="tspan41305"><tspan
            style="font-size:43.6292px"
-           id="tspan38417">
+           id="tspan41303">
 </tspan></tspan><tspan
          x="-189.01953"
          y="284.81805"
-         id="tspan38423"><tspan
+         id="tspan41309"><tspan
            style="font-size:43.6292px"
-           id="tspan38421">
+           id="tspan41307">
 </tspan></tspan><tspan
          x="-189.01953"
          y="286.3644"
-         id="tspan38427"><tspan
+         id="tspan41313"><tspan
            style="font-size:43.6292px"
-           id="tspan38425">
+           id="tspan41311">
 </tspan></tspan><tspan
          x="-189.01953"
          y="287.91076"
-         id="tspan38431"><tspan
+         id="tspan41317"><tspan
            style="font-size:43.6292px"
-           id="tspan38429">
+           id="tspan41315">
 </tspan></tspan><tspan
          x="-189.01953"
          y="289.45712"
-         id="tspan38435"><tspan
+         id="tspan41321"><tspan
            style="font-size:43.6292px"
-           id="tspan38433">
+           id="tspan41319">
 </tspan></tspan><tspan
          x="-189.01953"
          y="291.00347"
-         id="tspan38439"><tspan
+         id="tspan41325"><tspan
            style="font-size:43.6292px"
-           id="tspan38437">
+           id="tspan41323">
 </tspan></tspan><tspan
          x="-189.01953"
          y="292.54983"
-         id="tspan38443"><tspan
+         id="tspan41329"><tspan
            style="font-size:43.6292px"
-           id="tspan38441">
+           id="tspan41327">
 </tspan></tspan><tspan
          x="-189.01953"
          y="294.09618"
-         id="tspan38447"><tspan
+         id="tspan41333"><tspan
            style="font-size:43.6292px"
-           id="tspan38445">
+           id="tspan41331">
 </tspan></tspan><tspan
          x="-189.01953"
          y="295.64254"
-         id="tspan38451"><tspan
+         id="tspan41337"><tspan
            style="font-size:43.6292px"
-           id="tspan38449">
+           id="tspan41335">
 </tspan></tspan><tspan
          x="-189.01953"
          y="297.1889"
-         id="tspan38455"><tspan
+         id="tspan41341"><tspan
            style="font-size:43.6292px"
-           id="tspan38453">
+           id="tspan41339">
 </tspan></tspan><tspan
          x="-189.01953"
          y="298.73525"
-         id="tspan38459"><tspan
+         id="tspan41345"><tspan
            style="font-size:43.6292px"
-           id="tspan38457">
+           id="tspan41343">
 </tspan></tspan><tspan
          x="-189.01953"
          y="300.28161"
-         id="tspan38463"><tspan
+         id="tspan41349"><tspan
            style="font-size:43.6292px"
-           id="tspan38461">
+           id="tspan41347">
 </tspan></tspan><tspan
          x="-189.01953"
          y="301.82796"
-         id="tspan38467"><tspan
+         id="tspan41353"><tspan
            style="font-size:43.6292px"
-           id="tspan38465">
+           id="tspan41351">
 </tspan></tspan><tspan
          x="-189.01953"
          y="303.37432"
-         id="tspan38471"><tspan
+         id="tspan41357"><tspan
            style="font-size:43.6292px"
-           id="tspan38469">
+           id="tspan41355">
 </tspan></tspan><tspan
          x="-189.01953"
          y="304.92068"
-         id="tspan38475"><tspan
+         id="tspan41361"><tspan
            style="font-size:43.6292px"
-           id="tspan38473">
+           id="tspan41359">
 </tspan></tspan><tspan
          x="-189.01953"
          y="306.46703"
-         id="tspan38479"><tspan
+         id="tspan41365"><tspan
            style="font-size:43.6292px"
-           id="tspan38477">
+           id="tspan41363">
 </tspan></tspan><tspan
          x="-189.01953"
          y="350.12487"
-         id="tspan38485"><tspan
+         id="tspan41371"><tspan
            style="font-size:63.626px;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#ffffff"
-           id="tspan38481">→ </tspan><tspan
+           id="tspan41367">→ </tspan><tspan
            style="font-size:63.626px;line-height:1.08333;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#ffffff"
-           id="tspan38483">allow</tspan></tspan></text>
+           id="tspan41369">allow</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -637,7 +639,7 @@
        style="line-height:1.25;font-family:sans-serif;font-size:40px;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect104071)" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-38.629442,5.9939102)"
+       transform="matrix(0.26458333,0,0,0.26458333,-41.275277,4.9355768)"
        id="text175234"
        style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect175236)"
        inkscape:export-filename="/home/pascal/Desktop/for-dev/elm-allowable-state/social/thumbnail.png"
@@ -645,8 +647,8 @@
        inkscape:export-ydpi="93.190147"><tspan
          x="-54.515625"
          y="251.36699"
-         id="tspan38489"><tspan
+         id="tspan41375"><tspan
            style="font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#ffffff"
-           id="tspan38487">variant +</tspan></tspan></text>
+           id="tspan41373">variant +</tspan></tspan></text>
   </g>
 </svg>
